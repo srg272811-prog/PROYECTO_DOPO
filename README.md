@@ -59,6 +59,6 @@ Cada ciclo del proyecto contiene sus propios productos y documentación. De esta
   
 ## Asignatura
 
-**Desarrollo Orientado por Objetos - DOPO-POOB**
+**Desarrollo Orientado por Objetos - DOPO**
 
 **Proyecto Inicial - 2026-2**
