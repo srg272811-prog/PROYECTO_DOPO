@@ -46,8 +46,7 @@ Ciclo-1
 * Java
 * BlueJ
 * Astah
-* Git
-* GitHub
+
 
 ## Organización del proyecto
 
