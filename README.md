@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene el desarrollo del proyecto inicial de la asignatura **Desarrollo Orientado por Objetos (DOPO-POOB)**.
+Este repositorio contiene el desarrollo del proyecto inicial de la asignatura **Desarrollo Orientado por Objetos DOPO**.
 
 El proyecto consiste en el desarrollo de un simulador inspirado en el problema **Slot Machine** de la maratón de programación internacional 2025. El objetivo del proyecto es construir el simulador de una máquina tragamonedas aplicando conceptos de programación orientada por objetos, diseño de software y desarrollo incremental.
 
