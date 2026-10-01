@@ -46,6 +46,7 @@ Ciclo-2/
 ├── Diagrama de clases - SlotMachine (1).asta
 ├── Parte numero 4.docx
 └── SlotMachine.zip
+└── retrospectiva.pdf
 ```
 
 ## Integrantes
